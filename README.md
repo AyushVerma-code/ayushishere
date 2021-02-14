@@ -64,12 +64,6 @@
 <a href="https://www.instagram.com/thedivergentayush/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div> 
-  <br/>
-  <p align="center">
- <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
-</p>
-<hr>
 <h2 align="center">Github Statistics</h2>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AyushVerma-code&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
